@@ -10,14 +10,20 @@ a {
     color: #e5e7eb;
 }
 
+a:hover {
+    color: #f9faf8;
+}
+
 ul {
     display: flex;
     list-style-type: none;
 }
 
 li {
-    margin-left: 20px;
+    margin-left: 30px;
 }
+
+/* Section 1 styles */
 
 h1 {
     font-weight: 900;
@@ -37,6 +43,11 @@ button {
     margin-top: 10px;
 }
 
+button:hover {
+    background-color: gray;
+    cursor: pointer;
+}
+
 .section-1 {
     background-color: #1f2937;
 }
@@ -47,7 +58,7 @@ button {
     align-items: center;
     font-size: 18px;
     color: #e5e7eb;
-    padding: 5px 170px;
+    padding: 15px 170px;
 }
 
 .header-links {
@@ -68,10 +79,46 @@ button {
 
 .hero-image {
     width: 35em;
+    border-radius: 10px;
 }
 
 .logo {
     height: 110px;
 }
 
+/* Section 2 styles */
 
+.section-2 {
+    text-align: center;
+}
+
+.title {
+    font-size: 36px;
+    font-weight: 900;
+    color: #1f2937;
+    margin: 50px auto;
+}
+
+.info {
+    max-width: 300px;
+}
+
+.text {
+    max-width: 250px;
+    margin: auto;
+}
+
+.info img {
+    height: 300px;
+    width: 300px;
+    border-radius: 15px;
+    margin-bottom: 25px;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 30px;
+    margin-bottom: 80px;
+}
