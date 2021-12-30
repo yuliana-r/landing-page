@@ -16,3 +16,7 @@ Section 2:
 3. Image 3, author @wawawiwacomics - https://bit.ly/3JwNP91
 
 4. Image 4, author @wawawiwacomics - https://bit.ly/3sLEVi2
+
+Section 3:
+
+1. Audio source - https://bit.ly/3JrXVI1

@@ -122,3 +122,34 @@ button:hover {
     gap: 30px;
     margin-bottom: 80px;
 }
+
+/* Section 3 styles */
+
+.section-3 {
+    background-color: #e5e7eb;
+    display: flex;
+    justify-content: center;
+}
+
+.quote {
+    font-size: 36px;
+    font-weight: normal;
+    font-style: italic;
+    color: #1f2937;
+}
+
+.testimonials {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    max-width: 700px;
+    margin: 70px auto;
+}
+
+#sign {
+    align-self: flex-end;
+    font-size: 24px;
+    font-weight: bold;
+    color: #1f2937
+}
