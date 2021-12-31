@@ -180,18 +180,17 @@ button:hover {
     color: #f9faf8;
     display: flex;
     flex-wrap: wrap;
-    justify-content: center;
+    justify-content: space-around;
     align-items: center;
-    gap: 30px;
     padding: 45px 60px;
 }
 
-.social {
+.linkedin {
     background-color: #3882f6;
     border: 2px solid #f9faf8;
 }
 
-.social:hover {
+.linkedin:hover {
     background-color: #f9faf8;
     color: #3882f6;
     border: 2px solid #3882f6;
@@ -206,4 +205,17 @@ button:hover {
     justify-content: center;
     align-items: center;
     padding: 25px;
+}
+
+.github {
+    background-color: #1f2937;
+}
+
+.github:hover {
+    background-color: #f9faf8;
+    color: #1f2937;
+}
+
+.fa-github {
+    margin-right: 5px;
 }
