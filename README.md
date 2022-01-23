@@ -1,5 +1,6 @@
 # landing-page
-Odin Project exercise - landing page example to demonstrate use of Flexbox. Images used are linked below.
+Landing page example to demonstrate use of Flexbox. Images used are linked below.
+Completed as part of The Odin Project curriculum.
 
 Section 1:
 
@@ -20,3 +21,5 @@ Section 2:
 Section 3:
 
 1. Audio source - https://bit.ly/3JrXVI1
+
+Tab icon - https://bit.ly/3fTv6H3
