@@ -1,25 +1,22 @@
-# landing-page
-Landing page example to demonstrate use of Flexbox. Images used are linked below.
-Completed as part of The Odin Project curriculum.
+# Landing page
+## Introduction
 
-Section 1:
+This project is a simple landing page dedicated to whales. It is built using the standard front-end stack of HTML and CSS.
 
-1. Whale logo - https://bit.ly/3qwtwj7
+The project primarily demonstrates use of Flexbox.
 
-2. Image - https://bit.ly/32xxYWQ
+## Preview
 
-Section 2:
+[![The Landing page](./demo.png)](https://yuliana-r.github.io/landing-page/)
 
-1. Image 1, author @wawawiwacomics - https://bit.ly/3mGpFz6
+## Media credits:
 
-2. Image 2, author @wawawiwacomics - https://bit.ly/3sICuN5
+1. PNG find: https://bit.ly/3qwtwj7
 
-3. Image 3, author @wawawiwacomics - https://bit.ly/3JwNP91
+2. Mel's brushes: https://bit.ly/32xxYWQ
 
-4. Image 4, author @wawawiwacomics - https://bit.ly/3sLEVi2
+3. Wawawiwa Comics: https://bit.ly/3mGpFz6 https://bit.ly/3sICuN5  https://bit.ly/3JwNP91 https://bit.ly/3sLEVi2
 
-Section 3:
+4. Soundspunos: https://bit.ly/3JrXVI1
 
-1. Audio source - https://bit.ly/3JrXVI1
-
-Tab icon - https://bit.ly/3fTv6H3
+5. Flaticon: https://bit.ly/3fTv6H3
